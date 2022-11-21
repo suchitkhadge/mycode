@@ -1,0 +1,14 @@
+export OS_AUTH_URL=sdasd
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=fdfdfd
+export OS_PROJECT_DOMAIN_NAME=dfafaf
+export OS_USERNAME=khadge
+export OS_USER_DOMAIN_NAME=khadges
+export OS_PASSWORD=khadge
+export OS_AUTH_URL=http://controller:35357/v2/
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=python
+export OS_PROJECT_DOMAIN_NAME=chad
+export OS_USERNAME=khadge
+export OS_USER_DOMAIN_NAME=sk
+export OS_PASSWORD=sk
